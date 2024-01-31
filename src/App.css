@@ -1,0 +1,189 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;800;900&display=swap);
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.container{
+  padding-left: 100px !important;
+  width: 1440px;
+  height: 80px;
+  display: flex;
+ padding: 30px;
+  align-items: center;
+  background: #5361E4;
+}
+.card{
+  color: #FFF;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.all-card{
+  display: flex;
+  width: 800px;
+  justify-content: space-between;
+  margin-right: 100px;
+}
+.new{
+  margin-right: 50px;
+}
+
+.my-site{
+  width: 1440px;
+  height: 1491px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.language{
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-1{
+  color: #FFF;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-right: 20px;
+}
+.btn{
+  color:  #5361E4;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding: 20px;
+background-color: #FFF;
+border-radius: 20px;
+}
+.main-container{
+  display: flex;
+  width: 1440px;
+  height: 1411px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f4f4f4;
+}
+.box{
+  width: 702px;
+  height: 1207px;
+  padding: 32px;
+  background-color: #fff;
+  border-radius: 20px;
+}
+.h2{
+  color:  #2A2941;
+font-size: 32px;
+font-style: normal;
+font-weight: 500;
+line-height: 130%; /* 41.6px */
+margin-bottom: 20px;
+}
+
+.dark{
+  color:  #B3B3B3;
+font-size: 16px;
+font-style: normal;
+font-weight: 450;
+line-height: 130%; /* 20.8px */
+margin-bottom: 20px;
+}
+.sa{
+  display: flex;
+  width: 155px;
+  height: 84px;
+  justify-content: space-between;
+  align-items: center;
+}
+.a{
+  color:#5361E4;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.salom{
+  margin-top: 20px;
+
+}
+.salom h2{
+  color:  #2A2941;
+font-size: 14px;
+font-style: normal;
+font-weight: 450;
+line-height: normal;
+}
+.salom input{
+  margin-top: 5px;
+  display: flex;
+width: 600px;
+height: 56px;
+padding: 18px;
+align-items: flex-start;
+gap: 10px;
+padding: 18px;
+border-radius: 16px;
+border: 1px solid Gray;
+}
+
+input{
+  outline: none;
+}
+.input input{
+width: 600px;
+height: 148px;
+padding: 18px;
+}
+.input{
+  margin-bottom: 100px;
+}
+.btn-1{
+  text-align: center;
+  width: 200px;
+  color:  #fff;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding: 20px;
+background-color: #5361E4;
+border-radius: 20px;
+}
+.sss{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.btn-2{
+  text-align: center;
+  width: 200px;
+  color:  grey;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding: 20px;
+background-color: #F8F8F8;
+border-radius: 20px;
+}
+.btn-2:hover{
+  background-color: #d2cdcd;
+}
+.btn-1:hover{
+  background-color: #041cf6;
+}
+.btn:hover{
+  background-color: #dcd9d9;
+}
